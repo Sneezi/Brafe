@@ -3,5 +3,5 @@
 
 ##                                         Descrição
      Brafé foi um projeto de front-end desenvolvido no curso Origamid
-     Link do site: [vercel]https://brafe-g9ull6jiz.vercel.app/
+     Link do site: [brafé](https://brafe-g9ull6jiz.vercel.app/)
  
